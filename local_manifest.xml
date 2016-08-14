@@ -6,7 +6,7 @@
      <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1"/>   
           
      <!-- kernel -->      
-     <project path="kernel/huawei/hwY635" name="HUAWEI-Y635/android_kernel_huawei_hwY635" remote="github" revision="cm-12.1"/>
+     <project path="kernel/huawei/hwY635" name="HUAWEI-Y635/android_kernel_huawei_hwY635" remote="github" revision="cm-12.1-caf"/>
           
      <!-- vendor -->
      <project path="vendor/huawei/hwY635" name="HUAWEI-Y635/android_vendor_huawei_hwY635" remote="github" revision="cm-12.1"/>
