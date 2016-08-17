@@ -9,19 +9,19 @@ Initializing:
 
 First, create a folder to hold the source code: 
 
-	mkdir ~/cm-12.1
+	mkdir ~/rr
 
 Next..
 
-	cd ~/cm-12.1
+	cd ~/rr
 
 Initialize local repository:
 
-    repo init -u git://github.com/CyanogenMod/android.git -b cm-12.1
+    repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b lollipop5.1
 
 Also add the local manifests:
 
-    git clone https://github.com/HUAWEI-Y635/local_manifests .repo/local_manifests
+    git clone https://github.com/mikelmulti460/local_manifests .repo/local_manifests
 
 Sync up:
 
@@ -46,4 +46,4 @@ Third:
     
 Example:
 
-    brunch hwY635
+    brunch hwY550
