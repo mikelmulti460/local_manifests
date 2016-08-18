@@ -10,5 +10,8 @@
           
      <!-- vendor -->
      <project path="vendor/huawei/hwY550" name="CarlosArriagaCM/android_vendor_huawei_hwY550" remote="github" revision="cm-12.1"/>
-
+     <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
+     <project path="hardware/qcom/camera" name="desteam/platforme_hardware_qcom_camera" revision="master" />
+     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1"/>
+ 
 </manifest>
