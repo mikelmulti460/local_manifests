@@ -9,15 +9,15 @@ Initializing:
 
 First, create a folder to hold the source code: 
 
-	mkdir ~/RR
+	mkdir ~/cm-13.0
 
 Next..
 
-	cd ~/RR
+	cd ~/cm-13.0
 
 Initialize local repository:
 
-    repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b lollipop5.1
+    repo init -u git://github.com/CyanogenMod/android.git -b cm-13.0
 
 Also add the local manifests:
 
@@ -34,7 +34,7 @@ _Building_
 
 First:
 
-	cd ~/RR
+	cd ~/cm-13.0
 
 Second:
 
@@ -47,3 +47,4 @@ Third:
 Example:
 
     brunch hwY550
+
