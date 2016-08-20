@@ -9,11 +9,11 @@ Initializing:
 
 First, create a folder to hold the source code: 
 
-	mkdir ~/rr
+	mkdir ~/RR
 
 Next..
 
-	cd ~/rr
+	cd ~/RR
 
 Initialize local repository:
 
@@ -34,7 +34,7 @@ _Building_
 
 First:
 
-	cd ~/cm-12.1
+	cd ~/RR
 
 Second:
 
